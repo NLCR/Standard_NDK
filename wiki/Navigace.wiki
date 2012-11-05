@@ -1,5 +1,7 @@
 #sidebar TableOfContents
 
 * [Uvod Úvod]
+
 * [JPEG2000 Specifikace JPEG2000]
+
 * [Periodika PSP balíček pro periodika]
