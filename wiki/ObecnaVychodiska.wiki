@@ -2,9 +2,9 @@
 
 = Obecná východiska =
 
-* UC = user copy = uživatelské kopie
+ * UC = user copy = uživatelské kopie
 
-* MC = master copy = archivní kopie
+ * MC = master copy = archivní kopie
 
 * PS = původní sken – obrazový soubor vzniklý při digitalizaci, který se po zpracování (ořez, narovnání apod.) maže a dále se neukládá
 
