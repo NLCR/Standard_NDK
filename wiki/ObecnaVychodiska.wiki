@@ -14,7 +14,7 @@
 
  * PSP balíček – producer submission package
 
- # balíček dat a metadat, který přichází od producenta dat (tedy např. z workflow digitalizace)
+   *  balíček dat a metadat, který přichází od producenta dat (tedy např. z workflow digitalizace)
 
  # PSP balíček bude obsahovat kompletní intelektuální entitu tj. číslo periodika 
 
