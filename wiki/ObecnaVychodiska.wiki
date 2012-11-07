@@ -14,13 +14,13 @@
 
  * PSP balíček – producer submission package
 
-    # balíček dat a metadat, který přichází od producenta dat (tedy např. z workflow digitalizace)
+     # balíček dat a metadat, který přichází od producenta dat (tedy např. z workflow digitalizace)
 
-    # PSP balíček bude obsahovat kompletní intelektuální entitu tj. číslo periodika 
+     # PSP balíček bude obsahovat kompletní intelektuální entitu tj. číslo periodika 
 
-    # z workflow digitalizace lze poslat více PSP balíčků v balíku např. [.tar] apod.
+     # z workflow digitalizace lze poslat více PSP balíčků v balíku např. [.tar] apod.
 
-    # pokud má dvousvazkové dílo v katalogu knihovny bibliografický záznam pro každý svazek, vznikne pro každý svazek PSP balíček a každý svazek bude brán jako jedna intelektuální entita; to samé platí i pro případ, že vícesvazkové dílo má pouze jeden záznam
+     # pokud má dvousvazkové dílo v katalogu knihovny bibliografický záznam pro každý svazek, vznikne pro každý svazek PSP balíček a každý svazek bude brán jako jedna intelektuální entita; to samé platí i pro případ, že vícesvazkové dílo má pouze jeden záznam
 
  * základní bibliografická metadata budou stahována přímo z knihovních katalogů do workflow digitalizace
 
