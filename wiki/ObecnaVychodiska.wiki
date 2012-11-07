@@ -3,9 +3,7 @@
 = Obecná východiska =
 
  * UC = user copy = uživatelské kopie
-
  * MC = master copy = archivní kopie
-
  * PS = původní sken – obrazový soubor vzniklý při digitalizaci, který se po zpracování (ořez, narovnání apod.) maže a dále se neukládá
 
  * u všech metadatových formátů budou použity verze aktuální v době implementace projektu NDK nebo verze předchozí v případě, že nová verze je nová min. 3 měsíce
