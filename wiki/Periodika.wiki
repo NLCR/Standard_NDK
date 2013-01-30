@@ -2,4 +2,4 @@
 
 = PSP balíček pro periodika =
 
-== podnadpis ==
+http://www.ndk.cz/digitalizace/nove-standardy-digitalizace-od-roku-2011/specifikace_periodika_1-4.pdf
