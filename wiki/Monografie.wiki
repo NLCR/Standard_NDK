@@ -3,7 +3,7 @@
 = PSP balíček pro monografie =
 
 == Současná verze 1.0 ==
-[http://www.ndk.cz/digitalizace/nove-standardy-digitalizace-od-roku-2011/specifikace_monografie_1-0.pdf Definice metadatových formátů pro digitalizaci periodik verze 1.0]
+[http://www.ndk.cz/digitalizace/nove-standardy-digitalizace-od-roku-2011/specifikace_monografie_1-0.pdf Definice metadatových formátů pro digitalizaci monografií verze 1.0]
 
 == Nově připravovaná verze 1.1 ==
 [https://docs.google.com/a/mzk.cz/document/d/1wc7wYnxnNcPAweUJqgn22jEl_Cy4yo2gEjhmQFZV9Gc/edit Nově připravovaná verze 1.1]
