@@ -1,13 +1,7 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
+= Mapy =
 
-Add your content here.
+Mapy jsou monografická díla, takže specifikace se až na povinná pole ve formátu MODS shoduje se specifikací [Monografie PSP pro monografie].
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Definice povinných a doporučených polí bude dodána cca do poloviny roku 2013.
