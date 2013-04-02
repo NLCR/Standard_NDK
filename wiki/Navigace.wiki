@@ -7,3 +7,7 @@
 * [Periodika PSP balíček pro periodika]
 
 * [Monografie PSP balíček pro monografie]
+
+* [Hudebniny Dodatek pro hudebniny]
+
+* [Mapy Dodatek pro mapy]
