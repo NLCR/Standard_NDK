@@ -12,7 +12,7 @@ V současné době Národní knihovna spravuje a vyvíjí standardy pro následu
 -	Digitalizované zvukové dokumenty (gramofonové desky)
 -	E-born dokumenty ve formátu PDF/A a EPUB (periodika, monografie)
 
-Aktuální verze Definic metadatových formátů pro jednotlivé typy dokumentů a ukázkové balíčky SIP lze dohledat na webu http://ndk.cz. 
+Aktuální verze Definic metadatových formátů pro jednotlivé typy dokumentů a ukázkové balíčky SIP lze dohledat na webu http://old.ndk.cz. 
 
 ***
 
