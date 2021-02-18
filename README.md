@@ -24,4 +24,4 @@ V současné době jsou k dispozici:
 -	Pravidla pro popis periodik 
 -	Pravidla pro popis zvukových dokumentů
 
-Aktuální verze dokumentů lze taktéž dohledat na adrese http://ndk.cz. 
+Aktuální verze dokumentů lze taktéž dohledat na adrese https://old.ndk.cz. 
