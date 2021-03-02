@@ -16,7 +16,7 @@ Aktuální verze Definic metadatových formátů pro jednotlivé typy dokumentů
 
 ***
 
-Mimo Definice metadatových formátů Oddělení pro Standardy ve spolupráci s Oddělením metadat Národní knihovny a Moravskou zemskou knihovnou dále utváří a spravuje Pravidla pro popis dokumentů, které slouží jako příručkové dokumenty pro praktický popis jednotlivých typů digitalizátů. 
+Oddělení pro standardy ve spolupráci s Oddělením metadat a Moravskou zemskou knihovnou také odpovídá také za správu Pravidel popisu dokumentů. Pravidla popisu dokumentů slouží jako příručkové dokumenty pro praktický popis jednotlivých typů digitalizátů. 
 
 V současné době jsou k dispozici: 
 
