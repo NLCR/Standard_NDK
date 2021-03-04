@@ -1,6 +1,10 @@
-English version below.
+
 
 Tento repozitář je určen pro uživatele Definic metadatových formátů Národní digitální knihovny (Standard NDK) a Pravidel pro popis dokumentů. Slouží pro vzájemnou komunikaci a diskusi nad Standardy a Pravidly, sdílení zkušeností a řešení při aplikaci Standardu a Pravidel jak mezi digitalizujícími institucemi a Národní knihovnou, tak mezi jednotlivými institucemi navzájem.
+
+***
+
+English version below.
 
 ***
 
