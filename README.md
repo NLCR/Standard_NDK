@@ -45,7 +45,7 @@ Currently, the National Library is managing and developing standards for the fol
 - Digitized text documents (monographs, serial publications)
 - Digitized sound documents (phonograph, shellac disc records)
 - E-born documents in PDF/A and EPUB formats (monographs, serial publications)
-- 
+
 Current versions of the Metadata Standards of the NDL for the various types of documents and sample packages SIP can be found on our website http://old.ndk.cz.
 
 ***
