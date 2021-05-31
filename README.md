@@ -1,4 +1,10 @@
+# AKTUALITY #
 
+**Kontaktujte nás nyní prosím na adrese metadata.ndk@gmail.com.** V NK momentálně probíhá údržba poštovního serveru po havárii a nemáme přístup ke svým emailových schránkám. Výše uvedená adresa je záložní adresou pro celé Oddělení pro standardy a mají k ní přístup všichni zaměstnanci oddělení. Pokud jste v posledních dvou týdnech zaslali dotazy na naše pracovní adresy (@nkp.cz) prosíme také o jejich přeposlání na výše zmíněnou adresu. 
+
+Z důvodu stavby nového webu je možné veškerou dokumentaci stahovat buď na webu https://old.ndk.cz/ nebo stáhnout ze zálohy na následujícím linku: https://owncloud.cesnet.cz/index.php/s/yB70zl80HuZdKhP
+
+# O PROJEKTU #
 
 Tento repozitář je určen pro uživatele Definic metadatových formátů Národní digitální knihovny (Standard NDK) a Pravidel pro popis dokumentů. Slouží pro vzájemnou komunikaci a diskusi nad Standardy a Pravidly, sdílení zkušeností a řešení při aplikaci Standardu a Pravidel jak mezi digitalizujícími institucemi a Národní knihovnou, tak mezi jednotlivými institucemi navzájem.
 
@@ -33,7 +39,7 @@ V současné době jsou k dispozici:
 Aktuální verze dokumentů lze taktéž dohledat na adrese https://old.ndk.cz. 
 
 *******
-EN:
+# ABOUT #
 
 This repository is intended for users of Metadata Standards of the National Digital Library of the Czech Republic (NDL) and for users of Guidelines for description of the documents. It serves for mutual communication and discussion about the Standards and the Guidelines, sharing experiences and solutions in application of Standards and Guidelines between the National Library of the Czech Republic and other digitizing institutions and between various institutions themselves.
 
