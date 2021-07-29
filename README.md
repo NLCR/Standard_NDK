@@ -1,6 +1,7 @@
 # AKTUALITY #
 
-**Kontaktujte nás nyní prosím na adrese metadata.ndk@gmail.com.** V NK momentálně probíhá údržba poštovního serveru po havárii a nemáme přístup ke svým emailových schránkám. Výše uvedená adresa je záložní adresou pro celé Oddělení pro standardy a mají k ní přístup všichni zaměstnanci oddělení. Pokud jste v posledních dvou týdnech zaslali dotazy na naše pracovní adresy (@nkp.cz) prosíme také o jejich přeposlání na výše zmíněnou adresu. 
+7/2021
+Poštovní servery opět fungují a je možné nás kontaktovat na našich běžných emailových adresách.
 
 Z důvodu stavby nového webu je možné veškerou dokumentaci stahovat buď na webu https://old.ndk.cz/ nebo stáhnout ze zálohy na následujícím linku: https://owncloud.cesnet.cz/index.php/s/yB70zl80HuZdKhP
 
