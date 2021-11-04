@@ -1,9 +1,7 @@
 # AKTUALITY #
 
-7/2021
-Poštovní servery opět fungují a je možné nás kontaktovat na našich běžných emailových adresách.
-
-Z důvodu stavby nového webu je možné veškerou dokumentaci stahovat buď na webu https://old.ndk.cz/ nebo stáhnout ze zálohy na následujícím linku: https://owncloud.cesnet.cz/index.php/s/yB70zl80HuZdKhP
+11/21
+Národní knihovna spustila nový web https://standardy.ndk.cz, který nahrazuje původní web www.ndk.cz. Stránky zatím běží v pilotním provozu, proto prosím, omluvte případné drobné technické problémy při procházení. Záloha dokumentů z webu je stále dostupná na uložišti na adrese https://owncloud.cesnet.cz/index.php/s/yB70zl80HuZdKhP.
 
 # O PROJEKTU #
 
