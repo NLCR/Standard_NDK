@@ -1,7 +1,7 @@
 # AKTUALITY #
 
-11/21
-Národní knihovna spustila nový web https://standardy.ndk.cz, který nahrazuje původní web www.ndk.cz. Stránky zatím běží v pilotním provozu, proto prosím, omluvte případné drobné technické problémy při procházení. Záloha dokumentů z webu je stále dostupná na uložišti na adrese https://owncloud.cesnet.cz/index.php/s/yB70zl80HuZdKhP.
+5/23
+Na našem webu https://standardy.ndk.cz/ndk/standardy-digitalizace/metadata byly zveřejněny nové verze DMF pro periodika 2.0, DMF pro monografie 2.1 a Pravidla popisu periodik 8.5.
 
 # O PROJEKTU #
 
