@@ -14,9 +14,9 @@ Standard NDK je vyvíjen Oddělením standardů digitálních sbírek Národní 
 
 V současné době Národní knihovna spravuje a vyvíjí definice metadatových formátů pro následující typy dokumentů:
 
--	Digitalizované textové dokumenty (monografie, periodika)
--	Digitalizované zvukové dokumenty (gramofonové desky, fonografické válečky)
--	E-born dokumenty ve formátu PDF/A a EPUB (monografie, periodika)
+-	textové dokumenty (monografie, periodika)
+-	zvukové dokumenty (gramofonové desky, fonografické válečky, zvukové disky, zvukové nahrávky bez nosiče)
+-	e-born dokumenty ve formátu PDF/A a EPUB (monografie, periodika, skládaná periodika) a datové disky
 
 Aktuální verze definic metadatových formátů pro jednotlivé typy dokumentů a ukázkové balíčky SIP lze dohledat na webu https://standardy.ndk.cz/ndk/standardy-digitalizace. 
 ***
@@ -38,17 +38,17 @@ This repository is intended for users of Metadata Standards of the National Digi
 
 Metadata Standards of the NDL serves as a regulation for the outcome of the digitization process in the digitization projects in the Czech Republic. Initially, it was created for the project of the NDL. Nowadays, it is also prescribed in the programme VISK 7 and is used in regional digitization projects. It serves as a uniform format for the memory institutions, which want their data to be preserved in a long term storage in the National Library.
 
-Standard of the NDL is developed by the Digital Preservation Standards Department of the National Library of the Czech Republic, which takes responsibility for the maintenance and updating.
+Standard of the National Digital Library is developed by the Digital Collections Standards Department of the National Library of the Czech Republic, which takes responsibility for the maintenance and updating.
  
 Currently, the National Library is managing and developing standards for the following types of documents:
 
-- Digitized text documents (monographs, serial publications)
-- Digitized sound documents (phonograph, shellac disc records)
-- E-born documents in PDF/A and EPUB formats (monographs, serial publications)
+- text documents (monographs, serial publications)
+- sound documents (phonograph, shellac disc records, sound discs, sound recordings without carrier)
+- e-born documents in PDF/A and EPUB formats (monographs, serial publications, folded periodicals) and data discs
 
 Current versions of the Metadata Standards of the NDL for the various types of documents and sample packages SIP can be found on our website https://standardy.ndk.cz/ndk/standardy-digitalizace.
 ***
-Standards Department in cooperation with Metadata Creation Department of the National Library and the Moravian Library in Brno administers also the Guidelines for description of the documents. These guidelines serve as a manual for the description of various types of digitized documents.
+Standards Department in cooperation with Metadata Department of the National Library and the Moravian Library in Brno administers also the Guidelines for description of the documents. These guidelines serve as a manual for the description of various types of digitized documents.
 
 Currently, there are available guidelines for the following types of documents:
 
