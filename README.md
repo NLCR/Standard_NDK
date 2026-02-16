@@ -1,6 +1,8 @@
 # AKTUALITY #
 
-> 12/2024: Na [webu](https://standardy.ndk.cz/ndk/standardy-digitalizace/metadata) byly zveřejněny nové verze dokumentů - DMF pro periodika (2.1), DMF pro monografie (2.2), Pravidla pro popis periodik (8.6), Pravidla pro popis monografií (2.3) a samostatný předpis pro zápis ALTO XML pro užití v rámci Standardu NDK.
+> 02/2026: Na [webu](https://standardy.ndk.cz/ndk/standardy-digitalizace/metadata) byly zveřejněny nové verze dokumentů - DMF pro digitalizaci zvukových dokumentů (1.0) a Pravidla pro popis zvukových dokumentů (2.0)
+
+> 12/2025: Na [webu](https://standardy.ndk.cz/ndk/standardy-digitalizace/metadata) byly zveřejněny nové verze dokumentů - DMF pro periodika (2.2), DMF pro monografie (2.3), Pravidla pro popis periodik (8.7), Pravidla pro popis monografií (2.4) a nový předpis DMF pro digitalizaci dílčích jednotek fondu (0.1).
 
 
 # O PROJEKTU #
@@ -14,7 +16,7 @@ Standard NDK je vyvíjen Oddělením standardů digitálních sbírek Národní 
 
 V současné době Národní knihovna spravuje a vyvíjí definice metadatových formátů pro následující typy dokumentů:
 
--	textové dokumenty (monografie, periodika)
+-	textové dokumenty - monografie (mapy, grafiky, hudebniny), periodika, dílčí jednotky fondu (kartotéční lístky, výstřižky)
 -	zvukové dokumenty (gramofonové desky, fonografické válečky, zvukové disky, zvukové nahrávky bez nosiče)
 -	e-born dokumenty ve formátu PDF/A a EPUB (monografie, periodika, skládaná periodika) a datové disky
 
@@ -42,7 +44,7 @@ Standard of the National Digital Library is developed by the Digital Collections
  
 Currently, the National Library is managing and developing standards for the following types of documents:
 
-- text documents (monographs, serial publications)
+- text documents - monographs, serial publications, units (card index, clipping)
 - sound documents (phonograph, shellac disc records, sound discs, sound recordings without carrier)
 - e-born documents in PDF/A and EPUB formats (monographs, serial publications, folded periodicals) and data discs
 
