@@ -1,10 +1,3 @@
-# AKTUALITY #
-
-> 02/2026: Na [webu](https://standardy.ndk.cz/ndk/standardy-digitalizace/metadata) byly zveřejněny nové verze dokumentů - DMF pro digitalizaci zvukových dokumentů (1.0) a Pravidla pro popis zvukových dokumentů (2.0)
-
-> 12/2025: Na [webu](https://standardy.ndk.cz/ndk/standardy-digitalizace/metadata) byly zveřejněny nové verze dokumentů - DMF pro periodika (2.2), DMF pro monografie (2.3), Pravidla pro popis periodik (8.7), Pravidla pro popis monografií (2.4) a nový předpis DMF pro digitalizaci dílčích jednotek fondu (0.1).
-
-
 # O PROJEKTU #
 (*English version below*)
 
